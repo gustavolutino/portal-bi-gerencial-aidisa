@@ -1,0 +1,62 @@
+{
+  "dashboard_id": "segmentacion-clientes-360",
+  "titulo": "Segmentación de Clientes 360",
+  "version_proyecto": "2.0.5",
+  "version_modelo": "CLI360_SEGMENTACION_2.0",
+  "origen": "2026-06-30",
+  "movil": "2026-07-31",
+  "generado_en": "2026-10-07T20:53:47-04:00",
+  "tipo": "snapshot_gerencial_estatico",
+  "paginas": [
+    {
+      "pagina": "Gerencia General",
+      "un": "TODAS",
+      "archivo": "gerencia-general--todas.html"
+    },
+    {
+      "pagina": "Gerencia General",
+      "un": "ALIMENTOS",
+      "archivo": "gerencia-general--alimentos.html"
+    },
+    {
+      "pagina": "Gerencia General",
+      "un": "ELECTRO",
+      "archivo": "gerencia-general--electro.html"
+    },
+    {
+      "pagina": "Gerencia General",
+      "un": "NO ALIMENTOS",
+      "archivo": "gerencia-general--no-alimentos.html"
+    },
+    {
+      "pagina": "Gerencia General",
+      "un": "OTROS",
+      "archivo": "gerencia-general--otros.html"
+    },
+    {
+      "pagina": "Seguimiento de Divisiones",
+      "un": "TODAS",
+      "archivo": "divisiones--todas.html"
+    },
+    {
+      "pagina": "Seguimiento de Divisiones",
+      "un": "ALIMENTOS",
+      "archivo": "divisiones--alimentos.html"
+    },
+    {
+      "pagina": "Seguimiento de Divisiones",
+      "un": "ELECTRO",
+      "archivo": "divisiones--electro.html"
+    },
+    {
+      "pagina": "Seguimiento de Divisiones",
+      "un": "NO ALIMENTOS",
+      "archivo": "divisiones--no-alimentos.html"
+    },
+    {
+      "pagina": "Seguimiento de Divisiones",
+      "un": "OTROS",
+      "archivo": "divisiones--otros.html"
+    }
+  ]
+}
