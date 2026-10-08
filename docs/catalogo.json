@@ -1,0 +1,112 @@
+{
+  "portal": {
+    "nombre": "Portal BI Gerencial",
+    "descripcion": "Productos analíticos corporativos para orientar decisiones de Gerencia.",
+    "actualizado": "2026-10-07",
+    "estado": "Primer producto gerencial publicado",
+    "modelo_publicacion": "Versiones HTML generadas localmente y publicadas sólo después de validación."
+  },
+  "productos": [
+    {
+      "id": "segmentacion-clientes-360",
+      "orden": 1,
+      "nombre": "Segmentación de Clientes 360",
+      "categoria": "Cartera y crecimiento",
+      "descripcion": "Lectura ejecutiva del valor, riesgo, evolución y oportunidad de la cartera.",
+      "estado": "Publicado",
+      "estado_codigo": "publicado",
+      "responsable": "BI y Planeamiento",
+      "valor_bi": "Decisión y control",
+      "frecuencia": "Según corrida MÓVIL validada",
+      "corte": "MÓVIL 31/07/2026",
+      "version": "CLI360_SEGMENTACION_2.0 · Proyecto 2.0.5",
+      "alcance": "Gerencia General, seguimiento de divisiones y Unidad de Negocio.",
+      "siguiente_hito": "Usar la publicación vigente y preparar la siguiente corrida validada.",
+      "publicado_en": "2026-10-07T20:53:47-04:00",
+      "dashboard": {
+        "gerencia_general": "dashboards/segmentacion-clientes-360/releases/20260731-cli360-2-0-5/index.html",
+        "divisiones": "dashboards/segmentacion-clientes-360/releases/20260731-cli360-2-0-5/divisiones--todas.html"
+      }
+    },
+    {
+      "id": "comercial-margen",
+      "orden": 2,
+      "nombre": "Comercial y Margen",
+      "categoria": "Desempeño comercial",
+      "descripcion": "Ventas, crecimiento, cumplimiento y protección de la rentabilidad.",
+      "estado": "Diseño de incorporación",
+      "estado_codigo": "roadmap",
+      "responsable": "BI",
+      "valor_bi": "Protección de margen e ingreso habilitado",
+      "frecuencia": "Por definir",
+      "corte": "No publicado",
+      "version": "—",
+      "alcance": "Lectura ejecutiva comercial, sin detalle operativo innecesario.",
+      "siguiente_hito": "Definir la ficha gerencial y sus decisiones prioritarias."
+    },
+    {
+      "id": "rtm-cobertura",
+      "orden": 3,
+      "nombre": "RTM y Cobertura",
+      "categoria": "Ejecución comercial",
+      "descripcion": "Cobertura, clientes, zonas y oportunidades de ejecución comercial.",
+      "estado": "Roadmap",
+      "estado_codigo": "roadmap",
+      "responsable": "BI",
+      "valor_bi": "Decisión y control",
+      "frecuencia": "Por definir",
+      "corte": "No publicado",
+      "version": "—",
+      "alcance": "Seguimiento ejecutivo de cobertura y ejecución.",
+      "siguiente_hito": "Acordar indicadores de decisión con Comercial."
+    },
+    {
+      "id": "inteligencia-precios",
+      "orden": 4,
+      "nombre": "Inteligencia de Precios",
+      "categoria": "Mercado y competencia",
+      "descripcion": "Posicionamiento competitivo, P2P y movimientos de precio.",
+      "estado": "Roadmap",
+      "estado_codigo": "roadmap",
+      "responsable": "BI",
+      "valor_bi": "Decisión y protección de margen",
+      "frecuencia": "Por definir",
+      "corte": "No publicado",
+      "version": "—",
+      "alcance": "Lectura gerencial de señales competitivas validadas.",
+      "siguiente_hito": "Consolidar la validación P2P antes de exponer resultados."
+    },
+    {
+      "id": "recomendador-comercial",
+      "orden": 5,
+      "nombre": "Recomendador Comercial",
+      "categoria": "Oportunidad comercial",
+      "descripcion": "Oportunidades sugeridas para habilitar una mejor acción comercial.",
+      "estado": "Roadmap",
+      "estado_codigo": "roadmap",
+      "responsable": "BI",
+      "valor_bi": "Ingreso habilitado",
+      "frecuencia": "Por definir",
+      "corte": "No publicado",
+      "version": "—",
+      "alcance": "Priorización ejecutiva de oportunidades, no operación transaccional.",
+      "siguiente_hito": "Definir la evidencia y la acción que habilita cada recomendación."
+    },
+    {
+      "id": "whatsapp-business",
+      "orden": 6,
+      "nombre": "WhatsApp Business",
+      "categoria": "Canal digital",
+      "descripcion": "Adopción, conversión y operación del canal de preventa asistida.",
+      "estado": "Roadmap",
+      "estado_codigo": "roadmap",
+      "responsable": "BI y Comercial",
+      "valor_bi": "Ingreso habilitado",
+      "frecuencia": "Por definir",
+      "corte": "No publicado",
+      "version": "—",
+      "alcance": "Resultados del canal y señales para toma de decisión.",
+      "siguiente_hito": "Establecer las métricas de adopción y conversión gerencial."
+    }
+  ]
+}
